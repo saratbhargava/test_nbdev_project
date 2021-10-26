@@ -6,8 +6,8 @@ index = {"say_hello": "00_core.ipynb"}
 
 modules = ["core.py"]
 
-doc_url = "https://{user}.github.io/img_recognition/"
+doc_url = "https://saratbhargava.github.io/img_recognition/"
 
-git_url = "https://github.com/{user}/img_recognition/tree/{branch}/"
+git_url = "https://github.com/saratbhargava/img_recognition/tree/{branch}/"
 
 def custom_doc_links(name): return None
