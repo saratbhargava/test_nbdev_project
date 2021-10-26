@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: ResNet Module
+      title: Core Module
       url: core.html
     output: web
     title: img_recognition
