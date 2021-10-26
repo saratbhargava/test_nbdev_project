@@ -12,11 +12,11 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
-```python
+```
 from img_recognition.core import say_hello
 ```
 
-```python
+```
 say_hello("Sarat")
 ```
 
