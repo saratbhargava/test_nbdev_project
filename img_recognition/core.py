@@ -5,4 +5,5 @@ __all__ = ['say_hello']
 # Cell
 def say_hello(to):
     "Say hello to somebody"
-    print(f'Hello, {to}!')
+    wish = f'Hello, {to}!'
+    return wish
