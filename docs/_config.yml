@@ -3,7 +3,7 @@ output: web
 topnav_title: img_recognition
 site_title: img_recognition
 company_name: MIT
-description: Image Recognition project
+description: "Image Recognition project"
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
