@@ -8,6 +8,6 @@ modules = ["core.py"]
 
 doc_url = "https://saratbhargava.github.io/img_recognition/"
 
-git_url = "https://github.com/saratbhargava/img_recognition/tree/{branch}/"
+git_url = "https://github.com/saratbhargava/img_recognition/tree/master/"
 
 def custom_doc_links(name): return None
