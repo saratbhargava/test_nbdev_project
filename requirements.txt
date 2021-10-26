@@ -11,7 +11,7 @@ entrypoints==0.3
 fastcore==1.3.26
 fastrelease==0.1.12
 ghapi==0.1.19
--e git+https://github.com/saratbhargava/img_recognition@e4b010b88b84d080129c78a850fb4696b77b0bfa#egg=img_recognition
+-e git+https://github.com/saratbhargava/img_recognition@125d8efaf8a64dea1cc7a8e64f3c55749e4514ec#egg=img_recognition
 ipykernel==6.4.2
 ipython==7.28.0
 ipython-genutils==0.2.0
@@ -47,7 +47,7 @@ python-dateutil==2.8.2
 pywin32==302
 pywinpty==1.1.4
 PyYAML==6.0
-pyzmq==22.3.0
+pyzmq==19.0.2
 qtconsole==5.1.1
 QtPy==1.11.2
 Send2Trash==1.8.0
